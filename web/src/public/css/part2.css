@@ -15,7 +15,7 @@ h1{
 
 
 
-.top{
+.inter{
     margin: 2rem;
     padding: 1rem;
     font-family: Arial;
@@ -27,13 +27,6 @@ h1{
 }
 
 
+
     
-table, th, td {
-  border: 1px solid white;
-  border-collapse: collapse;
-}
-th, td {
-  background-color: #96D4D4;
-  padding: 1rem;
-}
-    
+
